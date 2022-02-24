@@ -2,7 +2,7 @@
 
 *Population immunity to pre-Omicron and Omicron SARS-CoV-2 variants in US states and counties through December 1, 2021*
 
-Link to medRxiv
+[medRxiv link](https://doi.org/10.1101/2021.12.23.21268272)
 
 ## Data
 The raw data is available from published repositories.
