@@ -1,3 +1,9 @@
+
+# Exclude data files
+data/*
+!data/data-sources
+code/dev/*
+
 # History files
 .Rhistory
 .Rapp.history
